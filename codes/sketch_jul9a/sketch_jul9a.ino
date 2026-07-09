@@ -4,7 +4,7 @@
 
 using namespace websockets;
 
-const char* ssid = "STARLINK-5FF7-5G";
+const char* ssid = "STARLINK-5FF7";
 const char* password = "25493351";
 
 WebsocketsClient ws;
